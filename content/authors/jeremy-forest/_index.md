@@ -14,7 +14,7 @@ organizations:
     url: https://www.cornell.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am interested in the biological and computational mechanisms underlying learning and memory and their applications on one side to better understand the brain and on the other side to develop better brain-inspired technologies, namely better artificial intelligence and neuromorphic computing.
+bio: I am interested in the biological and computational mechanisms underlying learning and memory and their applications to better understand the brain as well as to develop better brain-inspired technologies.
 
 # Interests to show in About widget
 interests:
