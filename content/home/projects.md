@@ -3,6 +3,9 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: portfolio
 
+# Activate this widget? true/false
+active: true
+
 # This file represents a page section.
 headless: true
 
@@ -27,10 +30,14 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Deep Learning
-      tag: Deep Learning
+    - name: Brain-inspired AI
+      tag: brain-inspired AI
+    - name: Neuromorphic
+      tag: neuromorphic
+    - name: Deep-Learning
+      tag: deep-learning
     - name: Other
-      tag: Demo
+      tag : other
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
