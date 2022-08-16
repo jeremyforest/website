@@ -36,22 +36,22 @@ In this paper we were wondering how the olfactory bulb is able to balance the pe
 
 First we showed that the presence of adult born neurons correlates with performance (using adult-born neurons labelling with Brdu). In other words performances are linjed to adult-born neurons fate.  
 
-![figure 1](/2020-03-30-paper-changing-perceptual-learning/figure1.jpg)
+![figure 1](figure1.jpg)
 
 
 Next we added a second discrimination learning task and showed that time between learning session affects stored memory in a critical way.
 
-![figure 2](/2020-03-30-paper-changing-perceptual-learning/figure2.jpg)
+![figure 2](figure2.jpg)
 
 
 Importantly sensory reactivatiion prevents both cells and memory loss !
 
-![figure 3](/2020-03-30-paper-changing-perceptual-learning/figure3.jpg)
+![figure 3](figure3.jpg)
 
 
 Finally using optogenetics we demonstrate that distinct adult-born neurons cohorts are recruited for distinct memories.
 
-![figure 4](/2020-03-30-paper-changing-perceptual-learning/figure4.jpg)
+![figure 4](figure4.jpg)
 
 
 So to answer the question of this paper we can take from these experiments that it seems that:
