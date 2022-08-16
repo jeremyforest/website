@@ -26,21 +26,21 @@ tags: [bio-neuro]
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'Image credit: Jeremy Forest'
   focal_point: Center
 
 # links:
 # url_code: ''
-# url_pdf: ''
+url_pdf: /static/uploads/slides/Optical_Stimulation_and_Recording_Acquisition_Software.pdf
 # url_slides: ''
-# url_video: ''
+url_video: 'https://www.youtube.com/watch?v=8RJ1QGrF__c&t=684s'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-url_slides: static/uploads/slides/Optical_Stimulation_and_Recording_Acquisition_Software.pdf
+# slides: 
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
