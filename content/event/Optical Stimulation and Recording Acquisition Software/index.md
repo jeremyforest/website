@@ -29,7 +29,7 @@ image:
 
 # links:
 # url_code: ''
-url_pdf: /static/uploads/slides/Optical_Stimulation_and_Recording_Acquisition_Software.pdf
+url_pdf: /content/static/uploads/slides/Optical_Stimulation_and_Recording_Acquisition_Software.pdf
 # url_slides: ''
 url_video: 'https://www.youtube.com/watch?v=8RJ1QGrF__c&t=684s'
 
