@@ -78,7 +78,7 @@ email: ""
 highlight_name: true
 ---
 
-**This is still under development**
+*This is still under development*
 
 I am interested in the biological and computational mechanisms underlying learning and memory.   
 
