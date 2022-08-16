@@ -25,7 +25,7 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: jerem.forest@gmail,com
+  email: jerem.forest@gmail.com
   phone: 
   address:
     street:
@@ -39,7 +39,7 @@ content:
     longitude:
   directions:
   office_hours:
-  appointment_url: 'https://calendly.com'
+  # appointment_url: 'https://calendly.com'
   contact_links:
     - icon: twitter
       icon_pack: fab
