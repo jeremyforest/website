@@ -30,6 +30,8 @@ content:
   filter_button:
     - name: All
       tag: '*'
+    - name: Biological Neurosciences
+      tag: bio-neuro
     - name: Brain-inspired AI
       tag: brain-inspired AI
     - name: Neuromorphic
