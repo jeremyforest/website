@@ -25,8 +25,8 @@ featured: false
 
 image:
   placement: 3
-  caption: 'Image credit: Jeremy Forest'
-  focal_point: Center
+  # caption: 'Image credit: Jeremy Forest'
+  # focal_point: Center
 
 # links:
 # url_code: ''
