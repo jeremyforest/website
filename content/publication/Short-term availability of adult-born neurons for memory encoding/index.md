@@ -6,14 +6,14 @@ title: 'Short-term availability of adult-born neurons for memory encoding'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - jeremy-forest
-  - Mélissa, Moreno
-  - Matthias, Cavelius
-  - Laura, Chalençon 
-  - Anne, Ziessel 
-  - Joëlle, Sacquet
-  - Marion, Richard 
-  - Anne, Didier 
-  - Nathalie, Mandairon
+  - Mélissa Moreno
+  - Matthias Cavelius
+  - Laura Chalençon 
+  - Anne Ziessel 
+  - Joëlle Sacquet
+  - Marion Richard 
+  - Anne Didier 
+  - Nathalie Mandairon
 
 date: '2019-12-06'
 doi: '10/ggfh4d'
@@ -31,7 +31,7 @@ publication_short: In *Nat Commun*
 abstract: Adult olfactory neurogenesis provides waves of new neurons involved in memory encoding. However, how the olfactory bulb deals with neuronal renewal to ensure the persistence of pertinent memories and the flexibility to integrate new events remains unanswered. To address this issue, mice performed two successive olfactory discrimination learning tasks with varying times between tasks. We show that with a short time between tasks, adult-born neurons supporting the first learning task appear to be highly sensitive to interference. Furthermore, targeting these neurons using selective light-induced inhibition altered memory of this first task without affecting that of the second, suggesting that neurons in their critical period of integration may only support one memory trace. A longer period between the two tasks allowed for an increased resilience to interference. Hence, newly formed adult-born neurons regulate the transience or persistence of a memory as a function of information relevance and retrograde interference. 
 
 # Summary. An optional shortened abstract.
-summary: Olfactory bulb neurogenesis raises the question of how persistent olfactory memories are retained while remaining flexible to encode new memories. Here, the authors show that new neurons can only support a single odor memory within their critical period of integration into the circuit.
+summary: Olfactory bulb neurogenesis raises the question of how persistent olfactory memories are retained while remaining flexible to encode new memories. Here, we show that new neurons can only support a single odor memory within their critical period of integration into the circuit.
 
 tags: [bench, biology, mice, olfaction, adult-neurogenesis, learning, neuroscience]
 
