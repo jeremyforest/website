@@ -6,18 +6,17 @@ title: 'Short-term availability of adult-born neurons for memory encoding'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - jeremy-forest
-  - 
-
-# Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+  - Mélissa, Moreno
+  - Matthias, Cavelius
+  - Laura, Chalençon 
+  - Anne, Ziessel 
+  - Joëlle, Sacquet
+  - Marion, Richard 
+  - Anne, Didier 
+  - Nathalie, Mandairon
 
 date: '2019-12-06'
 doi: '10/ggfh4d'
-
-# Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -34,7 +33,7 @@ abstract: Adult olfactory neurogenesis provides waves of new neurons involved in
 # Summary. An optional shortened abstract.
 summary: Olfactory bulb neurogenesis raises the question of how persistent olfactory memories are retained while remaining flexible to encode new memories. Here, the authors show that new neurons can only support a single odor memory within their critical period of integration into the circuit.
 
-tags: [bench, biology, mice, olfaction, adult-neurogenesis, learning]
+tags: [bench, biology, mice, olfaction, adult-neurogenesis, learning, neuroscience]
 
 # Display this page in the Featured widget?
 featured: true
@@ -56,7 +55,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](featured_Forest et al_2019_Short-term availability of adult-born neurons for memory encoding)'
+  caption: 'Forest et al, 2019, Short-term availability of adult-born neurons for memory encoding'
   focal_point: ''
   preview_only: false
 
@@ -66,22 +65,12 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-  - Biological Neurosciences
+  - Biological Neurosciencesz
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+#slides: example
 ---
-
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
