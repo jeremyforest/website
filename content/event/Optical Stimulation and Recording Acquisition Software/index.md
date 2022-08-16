@@ -24,7 +24,7 @@ tags: [bio-neuro]
 featured: false
 
 image:
-  placement: 1
+  placement: 3
   caption: 'Image credit: Jeremy Forest'
   focal_point: Center
 
