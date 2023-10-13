@@ -78,8 +78,6 @@ email: ""
 highlight_name: true
 ---
 
-**This website is still under development and being migrated from [my previous website](https://jeremyforest.github.io/)**
-
 I am interested in the biological and computational mechanisms underlying learning and memory.   
 
 I am currently doing a second postdoc in the lab of [Thomas Cleland](http://cplab.net/people/thomas-cleland/) at [Cornell University](https://www.cornell.edu/) oriented towards a computational neuroscience approach. We are working on the development of better olfactory processing models and the implementation of this model in neuromorphic architectured (namely [Loihi2](https://www.intel.com/content/www/us/en/newsroom/news/intel-unveils-neuromorphic-loihi-2-lava-software.html#gs.98k9hr)). 
