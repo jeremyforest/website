@@ -61,7 +61,7 @@ social:
     icon_pack: fab
     link: https://www.researchgate.net/profile/Jeremy-Forest
   - icon: orcid
-    icon_path: fab
+    icon_path: ai
     link: https://orcid.org/0000-0002-8486-5559
 
   # Link to a PDF of your resume/CV.
