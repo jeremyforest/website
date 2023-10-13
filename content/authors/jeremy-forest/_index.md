@@ -78,9 +78,10 @@ email: ""
 highlight_name: true
 ---
 
-I am a neuroscientist interested in multidisciplinary approaches to understand biological and artificial networks in both academia and industry. More specifically my research focuses on bidirectional approaches beetween biological and artificial processes around
-1. How information is transformed and encoded
-2. 
+I am a neuroscientist interested in multidisciplinary approaches to understand biological and artificial networks in both academia and industry. More specifically my research focuses on bidirectional synergistical approaches beetween biological and artificial processes around
+1. How stimuli are transformed and encoded
+2. How they are encoded
+3. How they are retrieved
 
 Broadly speaking I am interested in the biological and computational mechanisms underlying learning and memory; from incoming sensory stimuli to how they are stored and retrieved in both biological and artificial networks.
 
