@@ -78,6 +78,10 @@ email: ""
 highlight_name: true
 ---
 
+I am a neuroscientist interested in multidisciplinary approaches to understand biological and artificial networks in both academia and industry. More specifically my research focuses on bidirectional approaches beetween biological and artificial processes around
+1. How information is transformed and encoded
+2. 
+
 Broadly speaking I am interested in the biological and computational mechanisms underlying learning and memory; from incoming sensory stimuli to how they are stored and retrieved in both biological and artificial networks.
 
 I am currently doing a postdoc in the lab of [Thomas Cleland](http://cplab.net/people/thomas-cleland/) at [Cornell University](https://www.cornell.edu/) oriented towards a computational neuroscience approach. We are working on the development of better olfactory processing models and the implementation of this model in neuromorphic architectured (namely [Loihi2](https://www.intel.com/content/www/us/en/newsroom/news/intel-unveils-neuromorphic-loihi-2-lava-software.html#gs.98k9hr)). 
