@@ -78,7 +78,7 @@ email: ""
 highlight_name: true
 ---
 
-Broadly speaking I am interested in the biological and computational mechanisms underlying learning and memory.   
+Broadly speaking I am interested in the biological and computational mechanisms underlying learning and memory; from incoming sensory stimuli to how they are stored and retrieved in both biological and artificial networks.
 
 I am currently doing a postdoc in the lab of [Thomas Cleland](http://cplab.net/people/thomas-cleland/) at [Cornell University](https://www.cornell.edu/) oriented towards a computational neuroscience approach. We are working on the development of better olfactory processing models and the implementation of this model in neuromorphic architectured (namely [Loihi2](https://www.intel.com/content/www/us/en/newsroom/news/intel-unveils-neuromorphic-loihi-2-lava-software.html#gs.98k9hr)). 
 
