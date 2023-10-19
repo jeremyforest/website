@@ -8,7 +8,6 @@ authors: []
 tags: []
 categories: []
 date: 2020-03-30
-lastmod: 2020-03-30
 featured: true
 draft: false
 
